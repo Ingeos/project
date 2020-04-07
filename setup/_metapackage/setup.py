@@ -20,6 +20,7 @@ setuptools.setup(
         'odoo12-addon-project_parent_task_filter',
         'odoo12-addon-project_purchase_link',
         'odoo12-addon-project_recalculate',
+        'odoo12-addon-project_risk',
         'odoo12-addon-project_role',
         'odoo12-addon-project_stage_closed',
         'odoo12-addon-project_stage_state',
@@ -42,6 +43,7 @@ setuptools.setup(
         'odoo12-addon-project_timeline_task_dependency',
         'odoo12-addon-project_timesheet_time_control',
         'odoo12-addon-project_wbs',
+        'odoo12-addon-project_wbs_task',
     ],
     classifiers=[
         'Programming Language :: Python',
